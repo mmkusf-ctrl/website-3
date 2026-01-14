@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p1",
+    "name": "Pearl Drop Necklace",
+    "price": 120,
+    "collection": "pearl",
+    "category": "necklace",
+    "image": "assets/images/necklace1.jpg",
+    "description": "Elegant pearl necklace designed for timeless luxury."
+  },
+  {
+    "id": "p2",
+    "name": "Gold Hoop Earrings",
+    "price": 75,
+    "collection": "premium",
+    "category": "earrings",
+    "image": "assets/images/earring1.jpg",
+    "description": "Premium gold hoops with a refined finish."
+  }
+]
