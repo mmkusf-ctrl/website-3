@@ -1,0 +1,27 @@
+syncd-store/
+│
+├── index.html
+├── premium.html
+├── pearl.html
+├── products.html
+├── product.html
+├── checkout.html
+├── profile.html
+│
+├── data/
+│   └── products.json
+│
+├── js/
+│   ├── products.js
+│   ├── product.js
+│   ├── cart.js
+│   ├── checkout.js
+│   └── profile.js
+│
+├── styles/
+│   └── main.css
+│
+├── assets/
+│   └── images/
+│
+└── README.md
