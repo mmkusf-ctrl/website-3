@@ -1,0 +1,26 @@
+syncd-react/
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── ProductCard.jsx
+│   │   ├── QuantitySelector.jsx
+│   │   └── ProtectedRoute.jsx
+│   │
+│   ├── pages/
+│   │   ├── Home.jsx
+│   │   ├── Collection.jsx
+│   │   ├── Products.jsx
+│   │   ├── ProductDetail.jsx
+│   │   ├── Cart.jsx
+│   │   ├── Checkout.jsx
+│   │   ├── Profile.jsx
+│   │   └── Admin.jsx
+│   │
+│   ├── context/
+│   │   ├── CartContext.jsx
+│   │   └── AuthContext.jsx
+│   │
+│   ├── data/products.json
+│   ├── App.jsx
+│   └── main.jsx
