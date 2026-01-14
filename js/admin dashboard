@@ -1,0 +1,4 @@
+products/
+orders/
+users/
+if (!user?.isAdmin) return "Access Denied";
