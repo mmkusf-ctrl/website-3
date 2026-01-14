@@ -6,3 +6,11 @@ body {
   font-family: 'Playfair Display', serif;
   background-color: #f6f1ec;
 }
+
+.btn {
+  @apply px-8 py-3 border border-primary text-primary hover:bg-primary hover:text-white transition rounded-full;
+}
+
+.btn-outline {
+  @apply px-8 py-3 border border-primary text-primary transition rounded-full;
+}
